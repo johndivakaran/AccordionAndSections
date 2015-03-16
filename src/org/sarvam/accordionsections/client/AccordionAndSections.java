@@ -7,6 +7,8 @@ import com.smartgwt.client.widgets.layout.SectionStack;
 
 public class AccordionAndSections implements EntryPoint {
 	
+	// ************* Hi vasanth *******
+	
 	public void onModuleLoad() {
 		
 		HLayout sectionShowHide = new SectionsShowHideSample().getSectionShowHide();
